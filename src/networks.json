@@ -293,5 +293,15 @@
     "rpc": ["https://api.s0.b.hmny.io"],
     "ws": ["wss://ws.s0.b.hmny.io"],
     "explorer": "https://explorer.pops.one"
+  },
+  "43": {
+    "key": "43",
+    "name": "Pangolin Dev",
+    "shortName": "PangolinDev",
+    "chainId": 43,
+    "network": "testnet",
+    "rpc": ["http://localhost:9922"],
+    "ws": ["wss://localhost:9955"],
+    "explorer": "https://etherscan.io"
   }
 }
